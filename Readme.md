@@ -45,4 +45,4 @@ otherwise if you have changed the folder name from "hashtag" to something else t
 
 
 # Tables
-![picture alt](./database/ERD.jpg "Title is optional")
+![picture alt](https://github.com/izhan25/Hashtag/blob/master/database/ERD.JPG?raw=true "Title is optional")
